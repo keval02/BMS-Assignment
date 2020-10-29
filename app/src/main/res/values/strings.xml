@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BMS Assignment</string>
+    <string name="text_now_showing">Now Showing</string>
+    <string name="text_book_tickets">Book Tickets</string>
+    <string name="text_cast">Cast</string>
+    <string name="text_crew">Crew</string>
+    <string name="text_similar_movies">Similar Movies</string>
+
+
+
+    // Messages Strings
+
+    <string name="no_movies_found">Now movies are showing currently!</string>
+</resources>
